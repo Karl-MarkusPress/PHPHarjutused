@@ -1,0 +1,4 @@
+Nimi: John Doe
+Email: johndoe@tthk.ee
+Vanus: 30
+Hobi: Jalgrattasõit
